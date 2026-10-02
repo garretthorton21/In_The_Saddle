@@ -1,0 +1,15 @@
+# Unreal Engine 5 — never commit these
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+*.sln
+*.suo
+*.sdf
+*.opensdf
+*.VC.db
+*.VC.opendb
+.vs/
+# OS noise
+.DS_Store
+Thumbs.db
