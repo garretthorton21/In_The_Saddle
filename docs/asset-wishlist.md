@@ -1,5 +1,14 @@
 # Asset wishlist (steal with pride)
 
+## Current decision (2026-10-02): stand-in horse
+
+No horse purchase for now. The commercial question (is this a game that
+makes money?) gets answered before any money is spent. Until then: a
+stand-in — a stationary horse mesh or something very simple. A box with
+"horse" energy is fine at M1; a free static horse mesh if we want it to
+look like something at M2. The paid options below are the bridge we cross
+only if the game proves itself.
+
 Claim free stuff early — Epic's monthly Fab freebies are keep-forever, and
 you want the library built before you need it.
 
@@ -22,10 +31,11 @@ you want the library built before you need it.
   current "how we think games should be architected" reference. Useful when
   the prototype outgrows template Blueprints.
 
-## The horse (the crux asset — decide at M2)
+## The horse (the crux asset — PURCHASE DEFERRED, see top of file)
 
-No good free horse-with-rider exists; this is the one thing likely worth
-paying for. Candidates on Fab:
+No good free horse-with-rider exists; if this ever goes commercial, this is
+the one thing likely worth paying for (~$125–130 for horse pack + riding
+system, checked 2026-10-02). Candidates on Fab:
 
 - **The Viking Horse: Icelandic Horse with Rider Animations** —
   https://www.fab.com/listings/65a2e113-9f11-4c89-bdca-088b78c9176d
